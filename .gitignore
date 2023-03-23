@@ -1,0 +1,12 @@
+.idea
+build
+.env
+
+tests/.idea/
+tests/allure-results/
+tests/allure-report/
+tests/results/
+tests/.pytest_cache/
+tests/__pycache__
+tests/venv/
+tests/*.pyc
