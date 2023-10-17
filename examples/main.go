@@ -67,5 +67,5 @@ func main() {
 	}
 
 	log.Println("message from ALisa: ", string(message))
-	log.Println("message to Bob :", messageResult)
+	log.Println("message to Bob: ", messageResult)
 }
